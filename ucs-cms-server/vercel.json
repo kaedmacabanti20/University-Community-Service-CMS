@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/get/[getEndpoint].js": {
+      "memory": 1024,
+      "maxDuration": 5
+    }
+  }
+}
